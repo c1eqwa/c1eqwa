@@ -1,6 +1,6 @@
 <div align=center>
 
-![alt text](https://host.creqwa.dev/u/788f05731f8aa02e.png)
+![alt text](https://cdn.entezari.dev/u/788f05731f8aa02e.png)
 ### Hey, I'm Mohammad 👋  
 
 Mohammad Entezari / Hessen, Germany  

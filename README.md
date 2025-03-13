@@ -1,9 +1,9 @@
 <div align=center>
 
-![alt text](https://cdn.entezari.dev/u/788f05731f8aa02e.png)
+![alt text](https://cdn.entezari.dev/u/avatar.png)
 ### Hey, I'm Mohammad 👋  
 
-Mohammad Entezari / Hessen, Germany  
+Mohammad Entezari / Wiesbaden, Germany  
 I'm a Full Stack Developer
 
 ## Techstack

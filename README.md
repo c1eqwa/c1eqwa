@@ -1,6 +1,6 @@
 <div align=center>
 
-![alt text](https://cdn.entezari.dev/u/avatar.png)
+![alt text](https://cdn.entezari.dev/u/c1eqwa.gif)
 ### Hey, I'm Mohammad 👋  
 
 Mohammad Entezari / Wiesbaden, Germany  

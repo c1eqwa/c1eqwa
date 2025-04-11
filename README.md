@@ -1,6 +1,6 @@
 <div align=center>
 
-![alt text](https://cdn.entezari.dev/u/prf.jpg)
+![alt text](https://cdn.entezari.dev/u/github-banner.png)
 ### Hey, I'm Mohammad 👋  
 
 Mohammad Entezari / Wiesbaden, Germany  

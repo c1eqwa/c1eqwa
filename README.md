@@ -13,3 +13,4 @@
 [![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://hello@entezari.dev)
 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzfxnn&label=Profile%20views&color=0e75b6&style=flat" alt="zzfxnn" /> </p>

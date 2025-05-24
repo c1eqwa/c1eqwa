@@ -1,10 +1,6 @@
 <div align=center>
 
 ![github_banner](https://host.entezari.dev/u/github-banner.png)
-### Hey, I'm Mohammad 👋  
-
-Mohammad Entezari / Hessen, Germany  
-I'm a Fullstack Developer
 
 ## Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/1088456302331711499?theme=dark&hideDecoration=true&showDisplayName=true)](https://discord.com/users/1088456302331711499)  

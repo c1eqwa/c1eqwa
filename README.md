@@ -1,6 +1,6 @@
 <div align=center>
 
-![github_banner](https://host.entezari.dev/github/banner.jpg)
+![github_banner](https://host.entezari.dev/u/github-banner.png)
 ### Hey, I'm Mohammad 👋  
 
 Mohammad Entezari / Hessen, Germany  

@@ -1,6 +1,6 @@
 <div align=center>
 
-![alt text](https://git.cavageservice.de/u/banner.png)
+![alt text](https://git.cavageservice.de/u/banner.pg)
 ### Hey, I'm Shekib 👋  
 
 M. Shekib Entezari / Hessen, Germany  

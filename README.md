@@ -3,7 +3,7 @@
 ## 🧠 _self-taught fullstack developer._
 
 **💻 working with React, Lua, Vue.js, Next.js**  
-**🚓 currently building a custom FiveM server**
+**🚓 currently building a FiveM server**
 
 ---
 
